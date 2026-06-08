@@ -13,11 +13,9 @@ B.Tech IT Graduate
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veshkunu&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=veshkunu&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veshkunu&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=veshkunu&theme=tokyonight"/>
 </p>
 
 ---
