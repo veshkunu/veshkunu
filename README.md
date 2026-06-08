@@ -18,12 +18,12 @@ B.Tech IT Graduate
 
 ---
 
-## 🚀 Projects
+<h2 align="center">🚀 Projects</h2>
 
-### SimatriX
+### [SimatriX](https://github.com/veshkunu/simatriX)
 3D engineering simulation platform.
 
-### Telegram Sentiment Analysis Bot
+### [SimatriX](https://github.com/veshkunu/telegram-sentiment-analysis)
 AI-powered chatbot using Python and Hugging Face.
 
 ### Smart Water Quality Checker
@@ -38,7 +38,9 @@ ESP32-based IoT system for measuring:
 
 ## 🛠 Tech Stack
 
-HTML | CSS | JavaScript | Python | Arduino | ESP32 | Git | GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,arduino,vscode" />
+</p>
 
 ---
 
