@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Vishnu 👋
 
-<!--
-**veshkunu/veshkunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech IT Graduate
 
-Here are some ideas to get you started:
+💻 Web Developer  
+🐍 Python Developer  
+⚡ ESP32 & IoT Enthusiast  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### SimatriX
+3D engineering simulation platform.
+
+### Telegram Sentiment Analysis Bot
+AI-powered chatbot using Python and Hugging Face.
+
+### Smart Water Quality Checker
+ESP32-based IoT system for measuring:
+- pH
+- TDS
+- Turbidity
+- Dissolved Oxygen
+- Temperature
+
+---
+
+## 🛠 Tech Stack
+
+HTML | CSS | JavaScript | Python | Arduino | ESP32 | Git | GitHub
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](www.linkedin.com/in/vishnuulleri)
+- [Instagram](https://instagram.com/veshkunu.u)
+- [Portfolio Website](https://veshkunu.github.io)
