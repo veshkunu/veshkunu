@@ -23,7 +23,7 @@ B.Tech IT Graduate
 ### [SimatriX](https://github.com/veshkunu/simatriX)
 3D engineering simulation platform.
 
-### [SimatriX](https://github.com/veshkunu/telegram-sentiment-analysis)
+### [Sentiment Analysis Bot](https://github.com/veshkunu/telegram-sentiment-analysis)
 AI-powered chatbot using Python and Hugging Face.
 
 ### Smart Water Quality Checker
