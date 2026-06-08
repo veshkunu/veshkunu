@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/veshkunu/veshkunu/blob/main/git.png" />
+  <img src="https://raw.githubusercontent.com/veshkunu/veshkunu/main/git.png" width="100%" />
 </p>
 
 # Hi, I'm Vishnu 👋
