@@ -13,8 +13,6 @@ B.Tech IT Graduate
 ---
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veshkunu&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=veshkunu&theme=tokyonight"/>
 </p>
 
