@@ -48,4 +48,4 @@ ESP32-based IoT system for measuring:
 
 - [LinkedIn](www.linkedin.com/in/vishnuulleri)
 - [Instagram](https://instagram.com/veshkunu.u)
-- [Portfolio Website](https://veshkunu.github.io)
+- [Portfolio Website]((https://github.com/veshkunu))
