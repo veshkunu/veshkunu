@@ -13,7 +13,7 @@ B.Tech IT Graduate
 ---
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=veshkunu&theme=tokyonight"/>
+  <img height="180em" src="[https://streak-stats.demolab.com?user=veshkunu&theme=tokyonight](https://github-readme-streak-stats.herokuapp.com/?user=veshkunu&theme=tokyonight)"/>
 </p>
 
 ---
