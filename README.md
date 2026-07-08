@@ -14,7 +14,7 @@ B.Tech IT Graduate
 
 <p align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-nu-sooty.vercel.app?user=veshkunu&theme=transparent&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-nu-sooty.vercel.app?user=veshkunu&theme=transparent&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 </p>
 
