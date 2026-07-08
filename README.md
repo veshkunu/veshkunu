@@ -13,7 +13,11 @@ B.Tech IT Graduate
 ---
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=veshkunu&theme=dark&card_width=500&card_height=200)](https://git.io/streak-stats)
+  <img
+    src="https://streak-stats.demolab.com?user=veshkunu&theme=tokyonight&card_width=500"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
